@@ -2,7 +2,6 @@ import React from 'react'
 
 import {
   Brand,
-  CTA,
   Navbar
 } from './components'
 

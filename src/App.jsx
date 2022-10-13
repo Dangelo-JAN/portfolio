@@ -12,8 +12,7 @@ import {
   Blog,
   Features,
   Footer,
-  Header,
-  Possibility
+  Header
 } from './containers'
 
 const App = () => {
@@ -26,7 +25,6 @@ const App = () => {
       <Brand />
       <AboutMe />
       <Features />
-      <Possibility />
       <CTA />
       <Blog />
       <Footer />

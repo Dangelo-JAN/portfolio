@@ -32,9 +32,8 @@ const Navbar = () => {
           <div className="gpt3__navbar-menu_container-links">
             <p><a href="#home">Home</a></p>
             <p><a href="#aboutme">About Me</a></p>
-            <p><a href="#possibility">Open AI</a></p>
-            <p><a href="#features">Projects</a></p>
-            <p><a href="#blog">Library</a></p>
+            <p><a href="#features">Features</a></p>
+            <p><a href="#blog">Projects</a></p>
           </div>
           <div className="gpt3__navbar-menu_container-links-sign">
             <p>Sign in</p>

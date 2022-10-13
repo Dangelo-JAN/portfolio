@@ -3,7 +3,7 @@ import Feature from '../../components/feature/Feature'
 import './aboutme.css'
 
 const AboutMe = () => (
-  <div className="gpt3__whatgpt3 section__margin" id="wgpt3">
+  <div className="gpt3__whatgpt3 section__margin" id="aboutme">
     <div className="gpt3__whatgpt3-feature">
       <Feature title="About Me" text="Hello! How are you?! My name is Dangelo Arrivillaga, I was a freelance developer for two years before joining Microverse. During that time, I built user-friendly websites for some international clients. It was one of my achievements as a web developer. My commitment to delivering quality work on time sets me apart from others." />
     </div>

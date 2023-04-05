@@ -13,8 +13,8 @@ const Footer = () => (
     </div>
 
     <div className="gpt3__footer-links">
-      <div className="gpt3__footer-links_logo">
-        <img src={gpt3Logo} alt="gpt3_logo" />
+      <div className="gpt3__footer-name_container">
+        <p><a href="https://github.com/Dangelo-JAN">Dangelo Arrivillaga</a></p>
         <p>All Rights Reserved</p>
       </div>
       <div className="gpt3__footer-links_div">

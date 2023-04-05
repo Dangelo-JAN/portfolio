@@ -107,6 +107,24 @@
   color: #fff;
 }
 
+.gpt3__footer-name_container p:first-child {
+  color: #fff;
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 25px;
+  text-transform: capitalize;
+  margin: 0;
+  cursor: pointer;
+}
+
+.gpt3__footer-name_container p:nth-child(2) {
+  font-size: 12px;
+  font-family: var(--font-family);
+  line-height: 15px;
+  color: #fff;
+}
+
 @media screen and (max-width: 850px) {
   .gpt3__footer-heading h1 {
     font-size: 44px;

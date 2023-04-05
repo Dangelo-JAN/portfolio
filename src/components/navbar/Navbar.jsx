@@ -9,8 +9,8 @@ const Navbar = () => {
   return (
     <div className="gpt3__navbar">
       <div className="gpt3__navbar-links">
-        <div className="gpt3__navbar-links_logo">
-          <img src={logo} />
+        <div className="gpt3__navbar-links_container">
+          <p><a href="https://github.com/Dangelo-JAN">Github</a></p>
         </div>
         <div className="gpt3__navbar-links_container">
           <p><a href="#home">Home</a></p>
